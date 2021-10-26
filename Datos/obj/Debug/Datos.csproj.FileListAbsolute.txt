@@ -1,0 +1,7 @@
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\18-practica\slnSistemaVentas\Datos\bin\Debug\Datos.dll.config
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\18-practica\slnSistemaVentas\Datos\bin\Debug\Datos.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\18-practica\slnSistemaVentas\Datos\bin\Debug\Datos.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\18-practica\slnSistemaVentas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\18-practica\slnSistemaVentas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\18-practica\slnSistemaVentas\Datos\obj\Debug\Datos.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\18-practica\slnSistemaVentas\Datos\obj\Debug\Datos.pdb
